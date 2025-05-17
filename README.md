@@ -1,6 +1,6 @@
 # Upwork for Tutors
 
-A platform for connecting tutors with parents or students for physical and online learning sessions.
+A platform for connecting tutors with students for online learning sessions.
 
 ## Project Structure
 
